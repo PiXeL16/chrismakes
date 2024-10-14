@@ -13,7 +13,8 @@ import { ViewTransitions } from "astro:transitions";
 const pf = theme.fonts.font_family.primary;
 const sf = theme.fonts.font_family.secondary;
 
-let fontPrimary, fontSecondary;
+let fontPrimary; 
+let fontSecondary;
 if (theme.fonts.font_family.primary) {
   fontPrimary = theme.fonts.font_family.primary
     .replace(/\+/g, " ")

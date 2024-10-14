@@ -1,6 +1,6 @@
 {
-  "name": "bookworm-light-astro",
-  "version": "2.0.1",
+  "name": "chris-makes-astro",
+  "version": "1.0.0",
   "license": "MIT",
   "scripts": {
     "dev": "astro dev",
