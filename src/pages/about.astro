@@ -57,9 +57,14 @@ const { title, description, meta_title, image, what_i_do } = entry.data;
               <i class="{{.icon}} fa-3x text-primary mb-4" />
               <h5 class="text-dark font-weight-bold mb-3">{item.title}</h5>
               <p>{item.description}</p>
-              <a href={item.url} class="btn btn-outline-primary text-dark py-2 mt-4"
-                >Learn More</a
+              <a
+                href={item.url}
+                target="_blank"
+                rel="noopener noreferrer"
+                class="btn btn-outline-primary text-dark py-2 mt-4"
               >
+                Learn More
+              </a>
             </div>
           ))
         }
