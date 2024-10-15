@@ -1,7 +1,7 @@
 ---
 title: "I’m Chis Jimenez, I like making things"
 meta_title: "About"
-image: "/images/author.png"
+image: "/images/author.jpg"
 draft: false
 
 what_i_do:
