@@ -9,7 +9,17 @@ tags: ["Astro", "Tailwind CSS", "JAMstack", "Performance", "Engineering"]
 draft: false
 ---
 
-This simple website took 2 days to put together, and it's based on very accesible and open source technologies. Everything is opensource and the repo can be found [here](https://github.com/PiXeL16/chrismakes)
+This simple website took 2 days to put together, and it's based on very accesible and open source technologies.
+
+Astro is a great framework for building fast, content-focused websites. It offers several key features that make it stand out:
+
+1. **Component-Based Architecture**: Astro allows you to build your site using components from various frameworks or plain HTML/CSS/JavaScript.
+
+2. **Static Site Generation**: By default, Astro generates static HTML, resulting in extremely fast load times and improved SEO.
+
+3. **Partial Hydration**: Astro's "Islands" architecture allows you to selectively hydrate interactive components, keeping the overall JavaScript payload minimal.
+
+Everything is opensource and the repo can be found [here](https://github.com/PiXeL16/chrismakes)
 
 ## Core Technologies
 

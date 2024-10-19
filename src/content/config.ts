@@ -26,8 +26,6 @@ const authorsCollection = defineCollection({
     description: z.string().optional(),
     social: z
       .object({
-        facebook: z.string().optional(),
-        twitter: z.string().optional(),
         instagram: z.string().optional(),
       })
       .optional(),
