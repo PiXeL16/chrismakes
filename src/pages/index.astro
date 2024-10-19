@@ -2,6 +2,7 @@
 import config from "@/config/config.json";
 import Base from "@/layouts/Base.astro";
 import Pagination from "@/layouts/components/Pagination.astro";
+import CurrentProject from "@/layouts/CurrentProject.astro";
 import Posts from "@/layouts/Posts.astro";
 import { getSinglePage } from "@/lib/contentParser.astro";
 import { sortByDate } from "@/lib/utils/sortFunctions";
@@ -14,7 +15,9 @@ const currentPosts = sortedPosts.slice(0, config.settings.pagination);
 
 <Base>
   <section class="section">
+    <CurrentProject />
     <div class="container">
+      <h1 class="text-3xl font-bold mb-10 lg:text-5xl">Latest Projects</h1>
       <Posts posts={currentPosts} className="mb-16" />
       <Pagination currentPage={1} totalPages={totalPages} />
     </div>

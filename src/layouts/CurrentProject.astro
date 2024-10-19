@@ -1,0 +1,28 @@
+---
+import { getCollection } from "astro:content";
+import { markdownify } from "@/lib/utils/textConverter";
+import { getEntry } from "astro:content";
+import dateFormat from "@/lib/utils/dateFormat";
+import { BiCalendarEdit } from "react-icons/bi";
+
+const currentProject = await getEntry("projects", "current-project");
+const { title, description, date } = currentProject?.data || {};
+---
+
+{
+  currentProject && (
+    <div class="flex justify-center mb-10">
+      <div class="text-sm bg-primary text-white py-1 px-2 rounded-full inline-flex items-center">
+        <span class="font-bold mr-2">Current Project:</span>
+        <span set:html={markdownify(title)} class="mr-2 font-semibold" />
+        <span class="mx-1 hidden sm:inline">🛠️</span>
+        <span
+          set:html={markdownify(description)}
+          class="hidden sm:inline text-sm"
+        />
+        <span class="mx-1 hidden sm:inline">🛠️</span>
+        <span class="mx-1 hidden sm:inline">{dateFormat(date)}</span>
+      </div>
+    </div>
+  )
+}

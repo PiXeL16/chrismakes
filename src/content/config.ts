@@ -48,9 +48,22 @@ const pagesCollection = defineCollection({
   }),
 });
 
+const projectsCollection = defineCollection({
+  type: "content",
+  schema: z.object({
+    title: z.string(),
+    description: z.string(),
+    date: z.date(),
+    image: z.string().optional(),
+    features: z.array(z.string()).optional(),
+    // ... any other fields you need
+  }),
+});
+
 // Export collections
 export const collections = {
   posts: postsCollection,
   pages: pagesCollection,
   authors: authorsCollection,
+  projects: projectsCollection,
 };

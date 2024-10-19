@@ -1,6 +1,6 @@
-<h1 align=center>Bookworm Light Astro</h1>
-<p align=center>Bookworm Light is a feature-rich, minimal, highly customizable, easy-to-use free Astro blog theme.</p>
-<h2 align="center"> <a target="_blank" href="https://bookworm-light-astro.vercel.app/" rel="nofollow">👀Demo</a> | <a  target="_blank" href="https://pagespeed.web.dev/report?url=https%3A%2F%2Fbookworm-light-astro.vercel.app%2F&form_factor=desktop">Page Speed (100%)🚀</a>
+<h1 align=center>ChrisMakes Website</h1>
+<p align=center>A personal website and blog for Chris, built using the Bookworm Light Astro theme.</p>
+<h2 align="center"> <a target="_blank" href="https://chrismakes.xyz/" rel="nofollow">👀 Live Site</a> | <a  target="_blank" href="https://pagespeed.web.dev/report?url=https%3A%2F%2Fchrismakes.xyz%2F&form_factor=desktop">Page Speed (100%)🚀</a>
 </h2>
 
 <p align=center>
@@ -17,16 +17,12 @@
     <img src="https://img.shields.io/github/contributors/themefisher/bigspring-light-astro" alt="contributors"></a>
 </p>
 
-![bookworm-light](https://demo.gethugothemes.com/thumbnails/bookworm-light.png)
-
-Bookworm Light is a minimal multi-author free Astro blog theme which is perfect for any kind of blog website. Whether you're interested in food, beauty, travel, photography, lifestyle, fitness, health, or other topics, this theme is a great fit. The theme is super fast and SEO friendly which makes it easier for your content to be discovered by search engines.
+ChrisMakes is a personal website and blog built on the Bookworm Light Astro theme. It showcases Chris's projects, thoughts, and expertise in various tech-related topics. The site is designed to be fast, SEO-friendly, and easily customizable.
 
 ## 🔑Key Features
 
-- 🎨 Highly Customizable (Color, Font, Menu, Social Links, SEO Meta Tags, etc.)
-- 👥 Multi-Author Support
-- 📚 Authors Page
-- 👤 Author Single Page
+- 🎨 Customized design based on the Bookworm Light theme
+- 👤 Personal blog and project showcase
 - 🔍 Search Functionality with FuseJS
 - 🏷️ Tags and Categories Support
 - 📲 Post Social Share Option
@@ -42,10 +38,9 @@ Bookworm Light is a minimal multi-author free Astro blog theme which is perfect 
 - 📱 Fully Responsive on Desktops, Tablets, and Smartphones
 - 🔍 SEO Friendly
 
-<!-- installation -->
 ## 🔧Installation
 
-After downloading the template, you have some prerequisites to install. Then you can run it on your localhost. You can view the package.json file to see which scripts are included.
+After cloning the repository, you have some prerequisites to install. Then you can run it on your localhost. You can view the `package.json` file to see which scripts are included.
 
 ### ⚙️Install prerequisites (once for a machine)
 
@@ -77,23 +72,10 @@ After finishing all the customization, you can create a production build by runn
 npm run build
 ```
 
-<!-- reporting issue -->
-## 🐞Reporting Issues
-
-We use GitHub Issues as the official bug tracker for this Template. Please Search [existing issues](https://github.com/themefisher/bookworm-light-astro/issues). It’s possible someone has already reported the same problem.
-If your problem or idea has not been addressed yet, feel free to [open a new issue](https://github.com/themefisher/bookworm-light-astro/issues).
-
-<!-- licence -->
 ## 📄License
 
-Copyright (c) 2023 - Present, Designed & Developed by [Themefisher](https://themefisher.com)
+Template Copyright (c) 2023 - Present, Designed & Developed by [Themefisher](https://themefisher.com), Modified by Chris J
 
 **Code License:** Released under the [MIT](https://github.com/themefisher/bookworm-light-astro/blob/main/LICENSE) license.
 
 **Image license:** The images are only for demonstration purposes. They have their license, we don't have permission to share those images.
-
-## 👨‍💻Need Custom Development Services?
-
-Besides developing beautifully designed and blazing-fast themes, we help businesses create fast, performance-focused, scalable & secure websites based on NextJs, Hugo, Astro, etc.
-
-If you need a custom theme, theme customization, or complete website development services from scratch you can [Hire Us](https://themefisher.com/contact).

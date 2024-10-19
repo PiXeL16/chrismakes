@@ -20,8 +20,10 @@ what_i_do:
       url: "https://www.chris-jimenez.com"
 ---
 
-This website was born from my desire to share all my pet and side projects, forcing me to put more of myself "out there". Over the years, I’ve gathered a diverse set of interests and some skills across various creative fields, including software development, woodworking, electronics, and design.
+This website was born from my desire to share all my pet and side projects, forcing me to put more of myself "out there". Over the years, I've gathered a diverse set of interests and some skills across various creative fields, including software development, woodworking, electronics, and design. I mostly dont know what I am doing, but part of improving at something is to be able to share your work and learn from others.
 
-I love staying busy and creating something, hopefully, every day. Through this site, I aim to document my progress, share insights, and maybe even inspire others to dive into their own creative and technical pursuits. Whether you’re a fellow developer, a curious learner, or someone seeking inspiration or keeping themselves busy.
+This platform serves as a digital workshop where I can showcase what I am doing, document my learning process, and connect with like-minded individuals. It's a space where I can share all the mistakes and celebrate some achievements, no matter how small they might seem.
+
+I love staying busy and creating something, hopefully, every day. Through this site, I aim to document my progress, share insights, and maybe, maybe even inspire others to dive into their own creative and technical pursuits. Whether you’re a fellow developer, a curious learner, or someone seeking inspiration or keeping themselves busy.
 
 I hope you’ll find something engaging here. Feel free to explore my projects, learn from my experiences and failures, and don’t hesitate to reach out if you have questions or just want to connect!
