@@ -37,6 +37,8 @@ Here's a visual walkthrough of the cutting board making process:
 
 ![Cutting Board Process 6](/images/posts/cutting-boards/cutting-board-6.webp)
 
+![Cutting Board Process 8](/images/posts/cutting-boards/cutting-board-8.webp)
+
 ## Materials Used
 
 - Walnut wood
