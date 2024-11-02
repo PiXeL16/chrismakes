@@ -2,7 +2,7 @@
 title: "This Website"
 description: "Chris Makes Website"
 date: 2024-10-15T05:00:00Z
-image: "/images/logo.png"
+image: "/images/posts/this-website/this-website.webp"
 categories: ["Web Development"]
 authors: ["Chris J"]
 tags: ["Astro", "Tailwind CSS", "JAMstack", "Performance", "Engineering"]
