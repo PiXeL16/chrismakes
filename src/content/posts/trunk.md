@@ -2,7 +2,7 @@
 title: A Trunk
 description: "A Hardwood Trunk"
 date: 2024-16-01T05:00:00Z
-image: "/images/posts/trunk/trunk-1.webp"
+image: "/images/posts/trunk/trunk.webp"
 categories: ["Woodworking"]
 authors: ["Chris J"]
 tags: ["diy", "woodworking", "furniture", "design"]
