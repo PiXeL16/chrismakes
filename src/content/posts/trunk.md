@@ -1,7 +1,7 @@
 ---
 title: A Trunk
 description: "A Hardwood Trunk"
-date: 2024-16-01T05:00:00Z
+date: 2024-10-01T05:00:00Z
 image: "/images/posts/trunk/trunk.webp"
 categories: ["Woodworking"]
 authors: ["Chris J"]
