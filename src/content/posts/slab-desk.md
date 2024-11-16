@@ -1,7 +1,7 @@
 ---
 title: Hardwood Slab Desk
 description: "A Hardwood Slab Desk with Metal Legs"
-date: 2024-12-15T05:00:00Z
+date: 2024-10-15T05:00:00Z
 image: "/images/posts/slab-desk/slab-desk-6.webp"
 categories: ["Woodworking"]
 authors: ["Chris J"]

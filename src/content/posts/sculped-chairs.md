@@ -1,7 +1,7 @@
 ---
 title: Sculpted Chairs
 description: "Hardwood Sculpted Chairs with Woven Back Rest"
-date: 2025-01-01T05:00:00Z
+date: 2024-11-01T05:00:00Z
 image: "/images/posts/sculped-chairs/sculped-chair-7.webp"
 categories: ["Woodworking"]
 authors: ["Chris J"]
