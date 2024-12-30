@@ -9,9 +9,9 @@ tags: ["diy", "woodworking", "furniture", "design", "livingroom"]
 draft: false
 ---
 
-As I tackled my first DIY project in Germany, I encountered a new set of challenges. The goal was simple - create a storage unit to house our cluttered spaces with sensitive equipment like workout gear, tools, and camera equipment. But the reality turned out to be anything but straightforward.
+As this was my first DIY project in Germany, I encountered a new set of challenges. The goal was simple - create a storage unit to house our cluttered spaces with sensitive equipment like workout gear, tools, and camera equipment. But the reality turned out to be anything but straightforward.
 
-I had to get resourceful - figuring out delivery logistics, sourcing the right materials, and making do with what was available. This experience taught me valuable lessons about DIY design in a foreign country.
+I had to get resourceful - figuring out delivery logistics, sourcing the right materials, and making do with what was available. This experience taught some good lessons about DIY design in a foreign country.
 
 ![Storage Unit](/images/posts/storage-unit/storage_unit_3.webp)
 
