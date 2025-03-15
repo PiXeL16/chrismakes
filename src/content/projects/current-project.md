@@ -1,5 +1,5 @@
 ---
 
-title: "Bar Stools"
-description: "Designing Bar Stools for the Kitchen Island Project"
-date: 2025-03-01T05:00:00Z
+title: "Neurodiverse Invididuals App"
+description: "And App Aimed to help Neurodiverse Individuals"
+date: 2025-06-01T05:00:00Z
