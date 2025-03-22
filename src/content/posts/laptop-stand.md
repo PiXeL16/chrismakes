@@ -1,7 +1,7 @@
 ---
 title: Minimalist 3D Printed Laptop Stand
 description: "A removable laptop stand for a clean wooden desk setup"
-date: 2025-04-30T05:00:00Z
+date: 2025-03-22T05:00:00Z
 image: "/images/posts/laptop-stand/laptop-stand-3.webp"
 categories: ["3D Printing", "Workspace"]
 authors: ["Chris J"]
