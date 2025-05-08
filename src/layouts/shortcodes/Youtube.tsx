@@ -19,6 +19,6 @@ const Youtube = ({
 //       {...rest}
 //     />
 //   );
-)};
+});
 
 export default Youtube;
