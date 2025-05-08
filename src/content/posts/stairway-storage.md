@@ -1,7 +1,7 @@
 ---
 title: Under-Stairway Storage Cabinet
 description: "A custom hardwood storage solution utilizing the space beneath a staircase"
-date: 2025-06-25T05:00:00Z
+date: 2025-03-25T05:00:00Z
 image: "/images/posts/stairway-storage/stairway-storage-1.webp"
 categories: ["Woodworking"]
 authors: ["Chris J"]
