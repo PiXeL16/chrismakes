@@ -3,7 +3,21 @@ import React from "react";
 // import "react-lite-youtube-embed/dist/LiteYouTubeEmbed.css";
 
 const Youtube = ({
-//   id,
+  id,
+  title,
+  ...rest
+}: {
+  id: string;
+  title: string;
+  [key: string]: string | number | boolean | undefined;
+}) => {
+  return (
+    <div>
+      <h1>Youtube</h1>
+    </div>
+  );
+
+  //   id,
 //   title,
 //   ...rest
 // }: {
@@ -19,6 +33,6 @@ const Youtube = ({
 //       {...rest}
 //     />
 //   );
-});
+};
 
 export default Youtube;

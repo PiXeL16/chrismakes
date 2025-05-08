@@ -5,15 +5,27 @@ import PostSingle from "@/layouts/PostSingle.astro";
 import { getSinglePage } from "@/lib/contentParser.astro";
 import type { TPost } from "@/types";
 
+// Define a common interface for both pages and posts
+type PageOrPost = {
+  slug: string;
+  data: {
+    title: string;
+    meta_title?: string;
+    description?: string;
+    image?: string;
+    [key: string]: unknown;
+  };
+};
+
 const getPosts = (await getSinglePage("posts")) as TPost[];
 const postsSlug = getPosts.map((item) => item.slug);
 
 export async function getStaticPaths() {
   const posts = await getSinglePage("posts");
   const pages = await getSinglePage("pages");
-  const allPages = [...pages, ...posts];
+  const allPages = [...pages, ...posts] as PageOrPost[];
 
-  const paths = allPages.map((page: any) => ({
+  const paths = allPages.map((page: PageOrPost) => ({
     params: {
       regular: page.slug,
     },
