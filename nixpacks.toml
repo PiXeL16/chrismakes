@@ -2,7 +2,7 @@
 # ABOUTME: Ensures consistent builds using npm ci and proper Node version.
 
 [phases.setup]
-nixPkgs = ["nodejs_22", "npm"]
+nixPkgs = ["nodejs_22"]
 
 [phases.install]
 cmds = ["npm ci"]
