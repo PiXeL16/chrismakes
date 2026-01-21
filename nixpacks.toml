@@ -1,0 +1,14 @@
+# ABOUTME: Nixpacks configuration for Coolify deployment.
+# ABOUTME: Ensures consistent builds using npm ci and proper Node version.
+
+[phases.setup]
+nixPkgs = ["nodejs_22", "npm"]
+
+[phases.install]
+cmds = ["npm ci"]
+
+[phases.build]
+cmds = ["npm run build"]
+
+[start]
+cmd = "npx serve dist"
